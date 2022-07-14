@@ -10,7 +10,7 @@
 
 * **Paper YOLOv4**: https://arxiv.org/abs/2004.10934
 
-* **source code YOLOv4 - Darknet (use to reproduce results):** https://github.com/AlexeyAB/darknet
+* **source code YOLOv4 - Darknet (use to reproduce results):** https://github.com/pedroLimaifg/darknet
 
 ----
 
